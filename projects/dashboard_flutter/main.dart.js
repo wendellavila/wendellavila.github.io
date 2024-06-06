@@ -48820,7 +48820,7 @@ return A.K(null,r)}})
 return A.L($async$Fc,r)},
 Ff(){var s=0,r=A.M(t.H),q=this
 var $async$Ff=A.N(function(a,b){if(a===1)return A.J(b,r)
-while(true)switch(s){case 0:q.e=A.a5(["url",q.a.c+"/assets/placeholder/placeholder.pdf","year",B.h.k(A.ac2(q.f)),"month",q.xS()],t.N,t.z)
+while(true)switch(s){case 0:q.e=A.a5(["url",q.a.c+"/assets/assets/placeholder/placeholder.pdf","year",B.h.k(A.ac2(q.f)),"month",q.xS()],t.N,t.z)
 q.ad(new A.amn())
 return A.K(null,r)}})
 return A.L($async$Ff,r)},
@@ -48963,7 +48963,7 @@ A.rS.prototype={
 E(a){var s
 A.lq(a,!0,t.eC)
 s=$.ig.b2()===B.bJ?"":"_dark"
-return new A.yw("Currency",this.c+"/assets/html/currency"+s+".html",A.eK(B.Fg,A.v(a).ax.k3,18,700),null)}}
+return new A.yw("Currency",this.c+"/assets/assets/html/currency"+s+".html",A.eK(B.Fg,A.v(a).ax.k3,18,700),null)}}
 A.yw.prototype={
 E(a){var s,r,q=null
 $.R_.toString
@@ -49076,7 +49076,7 @@ A.vs.prototype={
 E(a){var s
 A.lq(a,!0,t.eC)
 s=$.ig.b2()===B.bJ?"":"_dark"
-return new A.yw("Weather",this.c+"/assets/html/weather"+s+".html",A.eK(B.Fw,A.v(a).ax.k3,18,700),null)}}
+return new A.yw("Weather",this.c+"/assets/assets/html/weather"+s+".html",A.eK(B.Fw,A.v(a).ax.k3,18,700),null)}}
 A.BF.prototype={
 ab(){return new A.G4(B.i)}}
 A.G4.prototype={

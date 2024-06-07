@@ -48915,7 +48915,7 @@ A.xo.prototype={
 E(a){var s=null,r={},q=t.p,p=A.b([],q)
 r.a=0
 this.d.a8(0,new A.a1o(r,this,A.bg("tileColor"),a,A.bg("textColor"),A.bg("selectionColor"),p))
-return new A.tj("Aniversariantes",A.eL(B.Fp,A.v(a).ax.k3,18,650),!1,s,A.bM(A.b([A.cs(A.b([new A.e1(1,B.aV,new A.bl(B.Er,A.bs(this.f,s,s,s,s,s,s,s,s,A.b2(s,s,A.v(a).ax.k3,s,s,s,s,s,s,s,s,14,s,s,B.P,s,s,!0,s,s,s,s,s,s,s,s),s,s,s,s,s),s),s)],q),B.y,B.t,B.p),new A.bl(B.nw,new A.fa(new A.a1p(p),s),s)],q),B.y,B.t,B.p),s)}}
+return new A.tj("Birthdays",A.eL(B.Fp,A.v(a).ax.k3,18,650),!1,s,A.bM(A.b([A.cs(A.b([new A.e1(1,B.aV,new A.bl(B.Er,A.bs(this.f,s,s,s,s,s,s,s,s,A.b2(s,s,A.v(a).ax.k3,s,s,s,s,s,s,s,s,14,s,s,B.P,s,s,!0,s,s,s,s,s,s,s,s),s,s,s,s,s),s),s)],q),B.y,B.t,B.p),new A.bl(B.nw,new A.fa(new A.a1p(p),s),s)],q),B.y,B.t,B.p),s)}}
 A.a1o.prototype={
 $2(a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=c.a;++a.a
 s=c.e
